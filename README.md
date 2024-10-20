@@ -1,6 +1,6 @@
 題目為Kaggle Severstal: Steel Defect Detection (https://www.kaggle.com/c/severstal-steel-defect-detection)
 
-程式分為6階段
+程式分為6階段\
 1.從Kaggle下載資料\
 2.Exploratory Data Analysis (EAD) - 探索性數據分析\
 3.資料預處理\
