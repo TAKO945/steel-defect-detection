@@ -8,4 +8,4 @@
 5.Post Training-訓練後優化\
 6.觀看原圖像、原圖像+mask及+預測後+mask
 
-關於6個階段的詳細內容及程式請察看steel_unet_final.ipynb
+關於6個階段的詳細內容及程式請查看steel_unet_final.ipynb
